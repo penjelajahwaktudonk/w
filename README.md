@@ -1,1 +1,1 @@
-# [w](https://docs.google.com/spreadsheets/d/1WLAHc4zLdLvz5Quw4D6_JmHYXR6RJ8CgEfwEpaIl_-c/edit?usp=sharing)https://docs.google.com/spreadsheets/d/1WLAHc4zLdLvz5Quw4D6_JmHYXR6RJ8CgEfwEpaIl_-c/edit?usp=sharing
+# cd SRBMiner-Multi-2-2-8 && ./SRBMiner-MULTI --algorithm ghostrider --pool stratum-asia.rplant.xyz:17094 --tls true --wallet MD9RFwwv38ow5dqVbPTunUaTZ8Xh4ZJEdJ.dear --keepalive true
