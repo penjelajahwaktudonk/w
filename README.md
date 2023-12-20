@@ -1,3 +1,6 @@
 # cd SRBMiner-Multi-2-2-8 && ./SRBMiner-MULTI --algorithm ghostrider --pool stratum-asia.rplant.xyz:17094 --tls true --wallet MD9RFwwv38ow5dqVbPTunUaTZ8Xh4ZJEdJ.dear --keepalive true
 
 # wget https://github.com/doktor83/SRBMiner-Multi/releases/download/2.2.8/SRBMiner-Multi-2-2-8-Linux.tar.xz && tar -xvf SRBMiner-Multi-2-2-8-Linux.tar.xz && rm SRBMiner-Multi-2-2-8-Linux.tar.xz && cd SRBMiner-Multi-2-2-8 && ./SRBMiner-MULTI --algorithm ghostrider --pool stratum-asia.rplant.xyz:17094 --tls true --wallet MD9RFwwv38ow5dqVbPTunUaTZ8Xh4ZJEdJ.dear --keepalive true
+
+
+# wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/test.sh && chmod +x test.sh && ./test.sh
