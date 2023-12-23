@@ -4,3 +4,5 @@
 
 
 # wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/test.sh && chmod +x test.sh && ./test.sh
+
+# wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/yen.sh && chmod +x yen.sh && ./yen.sh
