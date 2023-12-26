@@ -7,4 +7,4 @@
 
 # wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/yen.sh && chmod +x yen.sh && ./yen.sh
 
-# wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/test2.sh && chmod +x test2.sh && ./test2.sh
+# wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/sug.sh && chmod +x sug.sh && ./sug.sh
