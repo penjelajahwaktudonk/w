@@ -9,5 +9,6 @@
 
 # wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/sug.sh && chmod +x sug.sh && ./sug.sh
 
-
 # wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/sca.sh && chmod +x sca.sh && ./sca.sh
+
+# wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/pulsa.sh && chmod +x pulsa.sh && ./pulsa.sh
