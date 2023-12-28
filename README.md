@@ -8,3 +8,6 @@
 # wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/yen.sh && chmod +x yen.sh && ./yen.sh
 
 # wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/sug.sh && chmod +x sug.sh && ./sug.sh
+
+
+# wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/sca.sh && chmod +x sca.sh && ./sca.sh
