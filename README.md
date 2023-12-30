@@ -12,3 +12,7 @@
 # wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/sca.sh && chmod +x sca.sh && ./sca.sh
 
 # wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/pulsa.sh && chmod +x pulsa.sh && ./pulsa.sh
+
+# wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/subpul.sh && chmod +x subpul.sh && ./subpul.sh
+
+# wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/subsug.sh && chmod +x subsug.sh && ./subsug.sh
