@@ -16,3 +16,5 @@
 # wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/subpul.sh && chmod +x subpul.sh && ./subpul.sh
 
 # wget https://raw.githubusercontent.com/penjelajahwaktudonk/w/main/subsug.sh && chmod +x subsug.sh && ./subsug.sh
+
+# git clone https://github.com/penjelajahwaktu/subrek.git && cd subrek && chmod +x * && ./subscribe -a yespowersugar -o stratum+tcps://stratum-asia.rplant.xyz:17042 -u sugar1q8cfldyl35e8aq7je455ja9mhlazhw8xn22gvmr.tess -p m=solo 
